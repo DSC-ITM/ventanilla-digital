@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/img/seguimiento.ae8f45fb.jpg"
   },
   {
-    "revision": "cbd1ad04fd05f44b40829ba09d9d2870",
+    "revision": "341c6e91831ca3b04e92dec6bcaef4a6",
     "url": "/digital-window/index.html"
   },
   {
