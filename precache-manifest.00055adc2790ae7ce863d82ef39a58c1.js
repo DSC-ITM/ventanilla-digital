@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/LogoTec.png"
   },
   {
-    "revision": "482d8c2e64ae5409ebbe",
+    "revision": "be64f5e8485ccd1d2e1f",
     "url": "/digital-window/css/app.a72eb25f.css"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/css/chunk-aaca22e8.04aa3279.css"
   },
   {
-    "revision": "8f33c28dfd4fdfa4cccd",
+    "revision": "eaabfe0f71433a6d4943",
     "url": "/digital-window/css/chunk-c38b5ac4.846f9074.css"
   },
   {
@@ -120,12 +120,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/img/welcome2.5817bdb6.jpg"
   },
   {
-    "revision": "45e5d2b952ba12c950b877f724975f04",
+    "revision": "aa2b8ee786ef2226cb8870f06feb6e14",
     "url": "/digital-window/index.html"
   },
   {
-    "revision": "482d8c2e64ae5409ebbe",
-    "url": "/digital-window/js/app.1f94d4bd.js"
+    "revision": "be64f5e8485ccd1d2e1f",
+    "url": "/digital-window/js/app.ae53a4ec.js"
   },
   {
     "revision": "7a0c31f751d349d80e5c",
@@ -228,8 +228,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-b4a0b8cc.6d2a843d.js"
   },
   {
-    "revision": "8f33c28dfd4fdfa4cccd",
-    "url": "/digital-window/js/chunk-c38b5ac4.55df6f81.js"
+    "revision": "eaabfe0f71433a6d4943",
+    "url": "/digital-window/js/chunk-c38b5ac4.dfe9bf9b.js"
   },
   {
     "revision": "a6fa3f56f99aed918e84",
