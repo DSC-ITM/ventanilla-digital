@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/LogoTec.png"
   },
   {
-    "revision": "276e67492658487526f9",
-    "url": "/digital-window/css/app.4efeda3e.css"
+    "revision": "f7a26c52154a6666eafc",
+    "url": "/digital-window/css/app.7c566c36.css"
   },
   {
     "revision": "9c5205a4fb5c448050fa",
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/css/chunk-245993c2.cf0f5d0f.css"
   },
   {
-    "revision": "0973dad9250e5d507834",
-    "url": "/digital-window/css/chunk-2d862f2c.703ba2b9.css"
-  },
-  {
     "revision": "4cc29a0204f2908f7219",
     "url": "/digital-window/css/chunk-43ccdc98.4db614b7.css"
+  },
+  {
+    "revision": "a6f034d95290b1ce208d",
+    "url": "/digital-window/css/chunk-49c50e5c.8f55921d.css"
   },
   {
     "revision": "f176cfe9055cec5e5dc6",
@@ -120,12 +120,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/img/welcome2.5817bdb6.jpg"
   },
   {
-    "revision": "b56b739b218377d66cae81c61357db36",
+    "revision": "e788df1e736bc6ce7870dbcb3cbb74e4",
     "url": "/digital-window/index.html"
   },
   {
-    "revision": "276e67492658487526f9",
-    "url": "/digital-window/js/app.8cc2046b.js"
+    "revision": "f7a26c52154a6666eafc",
+    "url": "/digital-window/js/app.b75035c5.js"
   },
   {
     "revision": "9c5205a4fb5c448050fa",
@@ -184,10 +184,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-2d22578a.3d83ab07.js"
   },
   {
-    "revision": "0973dad9250e5d507834",
-    "url": "/digital-window/js/chunk-2d862f2c.fb4e8862.js"
-  },
-  {
     "revision": "38f08e4659a57b68ce10",
     "url": "/digital-window/js/chunk-3c546585.95648499.js"
   },
@@ -198,6 +194,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae14089833228cc2a143",
     "url": "/digital-window/js/chunk-444ac47d.a4f4d20d.js"
+  },
+  {
+    "revision": "a6f034d95290b1ce208d",
+    "url": "/digital-window/js/chunk-49c50e5c.3db47c94.js"
   },
   {
     "revision": "f176cfe9055cec5e5dc6",
