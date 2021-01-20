@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/LogoTec.png"
   },
   {
-    "revision": "7fcaa620c63146862536",
+    "revision": "276e67492658487526f9",
     "url": "/digital-window/css/app.4efeda3e.css"
   },
   {
@@ -120,12 +120,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/img/welcome2.5817bdb6.jpg"
   },
   {
-    "revision": "106bd53591faa1b5d7ed65128ee921f8",
+    "revision": "b56b739b218377d66cae81c61357db36",
     "url": "/digital-window/index.html"
   },
   {
-    "revision": "7fcaa620c63146862536",
-    "url": "/digital-window/js/app.cf0d465d.js"
+    "revision": "276e67492658487526f9",
+    "url": "/digital-window/js/app.8cc2046b.js"
   },
   {
     "revision": "9c5205a4fb5c448050fa",
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-2d862f2c.fb4e8862.js"
   },
   {
-    "revision": "040edb911c540f2f9a79",
-    "url": "/digital-window/js/chunk-3c546585.e22854f4.js"
+    "revision": "38f08e4659a57b68ce10",
+    "url": "/digital-window/js/chunk-3c546585.95648499.js"
   },
   {
     "revision": "4cc29a0204f2908f7219",
@@ -220,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-667e511e.d541c57f.js"
   },
   {
-    "revision": "cdbfccb58d815132a5b7",
-    "url": "/digital-window/js/chunk-8f47617c.ba84c560.js"
+    "revision": "28197bb781a32b5ff755",
+    "url": "/digital-window/js/chunk-8f47617c.8240f7d2.js"
   },
   {
     "revision": "faeb7c0fcadfbccf1195",
@@ -232,8 +232,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-b4a0b8cc.a41cd892.js"
   },
   {
-    "revision": "a77948daad2c33b25fcc",
-    "url": "/digital-window/js/chunk-c2afe7ee.995e3f5a.js"
+    "revision": "c5edafcca784a752e4c6",
+    "url": "/digital-window/js/chunk-c2afe7ee.af19170a.js"
   },
   {
     "revision": "1876fef27432f0549e07",
