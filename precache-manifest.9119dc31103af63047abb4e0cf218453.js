@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/LogoTec.png"
   },
   {
-    "revision": "7f0fea589420b33d1284",
-    "url": "/digital-window/css/app.8a221bf3.css"
+    "revision": "3a5b41d68d4d517f73f4",
+    "url": "/digital-window/css/app.4efeda3e.css"
   },
   {
     "revision": "1d43cbffb3b189aa4f64",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/css/chunk-215b2a22.bb7efbf7.css"
   },
   {
-    "revision": "a66a323866ff56a1eb3a",
-    "url": "/digital-window/css/chunk-245993c2.35b1d661.css"
+    "revision": "82bb7832f27936a6d344",
+    "url": "/digital-window/css/chunk-245993c2.cf0f5d0f.css"
   },
   {
     "revision": "0973dad9250e5d507834",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/css/chunk-7a8fd517.6c6eacc2.css"
   },
   {
-    "revision": "dd4107e546b6fff6c08e",
-    "url": "/digital-window/css/chunk-9ab4d358.35b1d661.css"
+    "revision": "faeb7c0fcadfbccf1195",
+    "url": "/digital-window/css/chunk-9ab4d358.cf0f5d0f.css"
   },
   {
     "revision": "489559989625664e7aec",
@@ -120,12 +120,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/img/welcome2.5817bdb6.jpg"
   },
   {
-    "revision": "c6b2ba8125fbeb92e775a0d5f4df2960",
+    "revision": "1cebf1fee258eb8458b27c3c76aeecdd",
     "url": "/digital-window/index.html"
   },
   {
-    "revision": "7f0fea589420b33d1284",
-    "url": "/digital-window/js/app.75244bbb.js"
+    "revision": "3a5b41d68d4d517f73f4",
+    "url": "/digital-window/js/app.c179bca9.js"
   },
   {
     "revision": "1d43cbffb3b189aa4f64",
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-23c2e46c.eafe0dce.js"
   },
   {
-    "revision": "a66a323866ff56a1eb3a",
+    "revision": "82bb7832f27936a6d344",
     "url": "/digital-window/js/chunk-245993c2.c0235e90.js"
   },
   {
@@ -220,7 +220,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-8f47617c.ba84c560.js"
   },
   {
-    "revision": "dd4107e546b6fff6c08e",
+    "revision": "faeb7c0fcadfbccf1195",
     "url": "/digital-window/js/chunk-9ab4d358.b6e79b09.js"
   },
   {
