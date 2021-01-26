@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/LogoTec.png"
   },
   {
-    "revision": "a3b51746b0e157fadd76",
+    "revision": "bee7fd77380f9aa4c5b2",
     "url": "/digital-window/css/app.5cae3eab.css"
   },
   {
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/css/chunk-6dd4b933.fc807317.css"
   },
   {
+    "revision": "0a9d03d9c910549df9e4",
+    "url": "/digital-window/css/chunk-7a5585b6.15b2ea25.css"
+  },
+  {
     "revision": "faeb7c0fcadfbccf1195",
     "url": "/digital-window/css/chunk-9ab4d358.cf0f5d0f.css"
   },
   {
     "revision": "1876fef27432f0549e07",
     "url": "/digital-window/css/chunk-dc3c2aae.ecbb6a4c.css"
-  },
-  {
-    "revision": "55a3c5aa5d3a7d41b9d4",
-    "url": "/digital-window/css/chunk-dc91e076.4cfde70e.css"
   },
   {
     "revision": "f2f02ec661bb73de9baa",
@@ -120,12 +120,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/img/welcome2.5817bdb6.jpg"
   },
   {
-    "revision": "01f344945b2fa0192de521f77235561e",
+    "revision": "67c3d3aab32e9b5c22129be498438259",
     "url": "/digital-window/index.html"
   },
   {
-    "revision": "a3b51746b0e157fadd76",
-    "url": "/digital-window/js/app.50bb2aea.js"
+    "revision": "bee7fd77380f9aa4c5b2",
+    "url": "/digital-window/js/app.3c3cd668.js"
   },
   {
     "revision": "8fcf0e6509f1881ad27c",
@@ -216,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-window/js/chunk-6dd4b933.17d6081f.js"
   },
   {
+    "revision": "0a9d03d9c910549df9e4",
+    "url": "/digital-window/js/chunk-7a5585b6.ce29530d.js"
+  },
+  {
     "revision": "508d79f8b807513cf774",
     "url": "/digital-window/js/chunk-8f47617c.95294fbb.js"
   },
@@ -234,10 +238,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1876fef27432f0549e07",
     "url": "/digital-window/js/chunk-dc3c2aae.97b9afb7.js"
-  },
-  {
-    "revision": "55a3c5aa5d3a7d41b9d4",
-    "url": "/digital-window/js/chunk-dc91e076.1947acad.js"
   },
   {
     "revision": "f2f02ec661bb73de9baa",
