@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ventanilla-digital/LogoTec.png"
   },
   {
-    "revision": "0d6673cd908cd09eb70e",
-    "url": "/ventanilla-digital/css/app.41101386.css"
+    "revision": "859ee680fe0af222ab9f",
+    "url": "/ventanilla-digital/css/app.29a1fe1a.css"
   },
   {
     "revision": "414d19c0a0b760c89a88",
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ventanilla-digital/css/chunk-5ee707d5.ae8d879a.css"
   },
   {
+    "revision": "081107f443e32ae17602",
+    "url": "/ventanilla-digital/css/chunk-602a228c.ab7914fd.css"
+  },
+  {
     "revision": "04da75f0517fbf45c56c",
     "url": "/ventanilla-digital/css/chunk-60b7d45d.7b0fb2a7.css"
   },
   {
     "revision": "cfab08f2700de35a6b63",
     "url": "/ventanilla-digital/css/chunk-64953653.aca87fd6.css"
-  },
-  {
-    "revision": "a0a6d1778f47c570211c",
-    "url": "/ventanilla-digital/css/chunk-6904170e.43098526.css"
   },
   {
     "revision": "d9f02eaf32f595934a3a",
@@ -148,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ventanilla-digital/img/welcome.ca8e2e7e.jpg"
   },
   {
-    "revision": "15dc965237df3007ca2ed5324bbaa850",
+    "revision": "3b551775892ed4fa5518a87d2a9fa538",
     "url": "/ventanilla-digital/index.html"
   },
   {
-    "revision": "0d6673cd908cd09eb70e",
-    "url": "/ventanilla-digital/js/app.cf426772.js"
+    "revision": "859ee680fe0af222ab9f",
+    "url": "/ventanilla-digital/js/app.5108e92d.js"
   },
   {
     "revision": "d69e4e2736cfe41af77b",
@@ -252,6 +252,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ventanilla-digital/js/chunk-5fe9d52c.d366a7ba.js"
   },
   {
+    "revision": "081107f443e32ae17602",
+    "url": "/ventanilla-digital/js/chunk-602a228c.ba8021fe.js"
+  },
+  {
     "revision": "04da75f0517fbf45c56c",
     "url": "/ventanilla-digital/js/chunk-60b7d45d.427c7ec3.js"
   },
@@ -264,16 +268,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ventanilla-digital/js/chunk-661f1f56.5c0e7fa5.js"
   },
   {
-    "revision": "a0a6d1778f47c570211c",
-    "url": "/ventanilla-digital/js/chunk-6904170e.550876e0.js"
+    "revision": "af76d61106a1f0f8952e",
+    "url": "/ventanilla-digital/js/chunk-7322547c.1ad7c0e0.js"
   },
   {
     "revision": "d9f02eaf32f595934a3a",
     "url": "/ventanilla-digital/js/chunk-bbe596ea.e5884476.js"
-  },
-  {
-    "revision": "e64122355dc7095bcb4c",
-    "url": "/ventanilla-digital/js/chunk-be6fae6e.acccbf19.js"
   },
   {
     "revision": "fb144a9a0414dcf9df69",
